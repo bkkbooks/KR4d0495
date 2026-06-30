@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0495/WYG/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 翰林楊仲弘詩
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 16:23:53.244111'
+  source:
+    repository: kanripo
+    path: KR4d0495/KR4d0495_007.txt
+hash: sha256:fa654c38a2d01af59e2a5f05fbb2ac681f78381aa59b39707d74603f8863bca0
